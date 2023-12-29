@@ -1,4 +1,4 @@
-Calificador Inador
+Calificador Inador C#
 
 Un pequeño software para automatizar la calificacion docente que deben hacer los estudiantes de la universidad del Tolima en la plataforma academusoft.
 
